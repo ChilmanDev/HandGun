@@ -3,4 +3,4 @@ Primeiramente gostaria de situar um pouco este projeto. HandGun, nome que dei ap
 
 Isso junto de de uma breve orientação sobre o funcionamento de Arduinos e alguns componentes eletrônicos, assim como utilização do Tinkercad, foi a base que foi dada para os alunos realizarem o projeto. No meu caso, previamente a esta atividade, eu não possuía nenhum conhecimento ou prática com eletrônica nem Arduinos, apenas com desenvolvimento de jogos e programação.
 
-### Para informaçõe detalhadas sobre o desenvolvimento deste projeto confira a [wiki]().
+### Para informaçõe detalhadas sobre o desenvolvimento deste projeto confira a [wiki](https://github.com/lChilmanl/HandGun/wiki).
